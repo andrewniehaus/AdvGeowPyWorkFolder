@@ -2,9 +2,9 @@
 ![Gibbon](./Gibbon.jpeg)
 
 ## Education
--[Clark University Undergrad](https://www.clarku.edu/)
+- [Clark University Undergrad](https://www.clarku.edu/)
 
--[Clark University Graduate School of Geography](https://www.clarku.edu/departments/geography/)
+- [Clark University Graduate School of Geography](https://www.clarku.edu/departments/geography/)
 
 ## Research Interests
 - [Glaciology]
