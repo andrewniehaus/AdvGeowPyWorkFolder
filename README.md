@@ -9,7 +9,7 @@
 ## Research Interests
 - [Glaciology]
 
--[Forest Loss Modeling]
+- [Forest Loss Modeling]
 
 - [Radar Remote Sensing]
 
