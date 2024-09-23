@@ -1,5 +1,5 @@
 # Andrew Niehaus
-![Gibbon]("C:\Users\andre\Downloads\Gibbon.jpeg")
+![Gibbon](./Gibbon.jpeg)
 
 ## Education
 -[Clark University Undergrad](https://www.clarku.edu/)
