@@ -6,5 +6,11 @@
 
 -[Clark University Graduate School of Geography](https://www.clarku.edu/departments/geography/)
 
+## Research Interests
+- [Glaciology]
+
+-[Forest Loss Modeling]
+
+- [Radar Remote Sensing]
 
 
